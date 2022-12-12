@@ -5,7 +5,7 @@
 
 ## CICD Applications setup
 1) ###### GitHub setup
-    Import GitHub Repository by using the existing repo "devops-fully-automated" (https://github.com/cvamsikrishna11/devops-fully-automated)     
+    Import GitHub Repository by using the existing repo "devops-fully-automated" (https://github.com/cvamsikrishna11/devops-fully-automated). If there is error then use the CLI or fork it     
     - Go to GitHub (github.com)
     - Login to your GitHub Account
     - **Import repository "devops-fully-automated" (https://github.com/cvamsikrishna11/devops-fully-automated) & name it "devops-fully-automated"**
